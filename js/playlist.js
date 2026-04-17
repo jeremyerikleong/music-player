@@ -13,7 +13,7 @@ let musicPlayer = [
   },
   {
     songName: "Pray",
-    artistName: "Hunter x Hunter",
+    artistName: "Yuzu",
     img: "photo-3",
     src: "song-3",
   },
